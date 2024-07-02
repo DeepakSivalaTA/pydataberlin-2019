@@ -1,0 +1,15 @@
+artifact_uri: /home/deepak_sivala/Desktop/pydataberlin-2019/mlruns/328520928458367138/326138f4c95b46d8b2f0372b4bc85133/artifacts
+end_time: 1719920293077
+entry_point_name: ''
+experiment_id: '328520928458367138'
+lifecycle_stage: active
+run_id: 326138f4c95b46d8b2f0372b4bc85133
+run_name: luxuriant-cow-865
+run_uuid: 326138f4c95b46d8b2f0372b4bc85133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719920287275
+status: 3
+tags: []
+user_id: deepak_sivala

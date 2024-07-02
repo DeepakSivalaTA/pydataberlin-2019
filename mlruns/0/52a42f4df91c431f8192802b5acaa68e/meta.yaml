@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/52a42f4df91c431f8192802b5acaa68e/artifacts
+end_time: 1719922195348
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52a42f4df91c431f8192802b5acaa68e
+run_name: ''
+run_uuid: 52a42f4df91c431f8192802b5acaa68e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719922187502
+status: 4
+tags: []
+user_id: deepak_sivala

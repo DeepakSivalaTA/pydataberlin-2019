@@ -1,0 +1,15 @@
+artifact_uri: /home/deepak_sivala/Desktop/pydataberlin-2019/mlruns/328520928458367138/17af899d2e104da1baf17cd0e03ac559/artifacts
+end_time: 1719941444516
+entry_point_name: ''
+experiment_id: '328520928458367138'
+lifecycle_stage: active
+run_id: 17af899d2e104da1baf17cd0e03ac559
+run_name: capricious-fowl-602
+run_uuid: 17af899d2e104da1baf17cd0e03ac559
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719941440173
+status: 3
+tags: []
+user_id: deepak_sivala

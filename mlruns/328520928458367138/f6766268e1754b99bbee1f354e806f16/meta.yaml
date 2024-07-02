@@ -1,0 +1,15 @@
+artifact_uri: /home/deepak_sivala/Desktop/pydataberlin-2019/mlruns/328520928458367138/f6766268e1754b99bbee1f354e806f16/artifacts
+end_time: 1719908598950
+entry_point_name: ''
+experiment_id: '328520928458367138'
+lifecycle_stage: active
+run_id: f6766268e1754b99bbee1f354e806f16
+run_name: popular-bear-138
+run_uuid: f6766268e1754b99bbee1f354e806f16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719908598778
+status: 4
+tags: []
+user_id: deepak_sivala

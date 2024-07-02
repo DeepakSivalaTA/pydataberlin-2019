@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/31bbefab59044fb981ec88a3ab6d7e2f/artifacts
+end_time: 1719939953763
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 31bbefab59044fb981ec88a3ab6d7e2f
+run_name: welcoming-duck-904
+run_uuid: 31bbefab59044fb981ec88a3ab6d7e2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719939810674
+status: 4
+tags: []
+user_id: deepak_sivala
